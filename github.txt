@@ -1,4 +1,8 @@
 
+<<<<<<< HEAD
 sindhuja merugu 
 hello 
 all
+=======
+sindhuja merugu from btech cse 2nd year
+>>>>>>> feature5
